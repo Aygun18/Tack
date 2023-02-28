@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\tack3\bin\Debug\net6.0\tack3.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\tack3\bin\Debug\net6.0\tack3.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\tack3\bin\Debug\net6.0\tack3.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\tack3\bin\Debug\net6.0\tack3.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\tack3\bin\Debug\net6.0\tack3.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\tack3\obj\Debug\net6.0\tack3.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\tack3\obj\Debug\net6.0\tack3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\tack3\obj\Debug\net6.0\tack3.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\tack3\obj\Debug\net6.0\tack3.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\tack3\obj\Debug\net6.0\tack3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\tack3\obj\Debug\net6.0\tack3.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\tack3\obj\Debug\net6.0\refint\tack3.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\tack3\obj\Debug\net6.0\tack3.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\tack3\obj\Debug\net6.0\tack3.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\tack3\obj\Debug\net6.0\ref\tack3.dll
